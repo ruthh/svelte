@@ -1,4 +1,4 @@
 svelte
 ======
 
-super skinny static site generator for my freelance projects
+Super skinny static site yo generator for my freelance projects
